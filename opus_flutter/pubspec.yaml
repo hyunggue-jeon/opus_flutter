@@ -14,7 +14,8 @@ dependencies:
   opus_flutter_android: ^3.0.1
   opus_flutter_ios: 
     git: 
-      url: https://github.com/hyunggue-jeon/opus_flutter/tree/master/opus_flutter_ios
+      url: https://github.com/hyunggue-jeon/opus_flutter.git
+      path: opus_flutter_ios
   opus_flutter_windows: ^3.0.0
   opus_flutter_web: ^3.0.3
 
